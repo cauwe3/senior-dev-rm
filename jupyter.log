@@ -1,0 +1,29 @@
+[I 2025-10-19 21:30:29.355 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 21:30:29.358 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 21:30:29.361 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 21:30:29.569 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-19 21:30:29.579 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 21:30:29.581 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 21:30:29.582 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 21:30:29.583 LabApp] JupyterLab extension loaded from /home/cauwee/.local/share/virtualenvs/senior-dev-rm-C0dCWeuv/lib/python3.12/site-packages/jupyterlab
+[I 2025-10-19 21:30:29.583 LabApp] JupyterLab application directory is /home/cauwee/.local/share/virtualenvs/senior-dev-rm-C0dCWeuv/share/jupyter/lab
+[I 2025-10-19 21:30:29.584 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 21:30:29.617 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 21:30:29.617 ServerApp] Serving notebooks from local directory: /home/cauwee/Dropbox/senior-dev-rm
+[I 2025-10-19 21:30:29.617 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-10-19 21:30:29.617 ServerApp] http://localhost:8888/lab?token=c3aa73477f9499b7d1b055b67c7bfe1bde30649d3ed23c97
+[I 2025-10-19 21:30:29.617 ServerApp]     http://127.0.0.1:8888/lab?token=c3aa73477f9499b7d1b055b67c7bfe1bde30649d3ed23c97
+[I 2025-10-19 21:30:29.617 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-10-19 21:30:29.633 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/cauwee/.local/share/jupyter/runtime/jpserver-96192-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=c3aa73477f9499b7d1b055b67c7bfe1bde30649d3ed23c97
+        http://127.0.0.1:8888/lab?token=c3aa73477f9499b7d1b055b67c7bfe1bde30649d3ed23c97
+[I 2025-10-19 21:30:29.644 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-10-19 21:30:31.620 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-19 21:39:42.230 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-19 21:39:48.729 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-19 21:39:54.973 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-10-19 21:40:17.055 ServerApp] Creating new file in 
