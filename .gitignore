@@ -3,5 +3,5 @@
 *.pyc
 .env
 __pycache__/
-.log
+*.log
 .gitattributes
