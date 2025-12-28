@@ -37,3 +37,13 @@ nohup: ignoring input
     Setting websocket_ping_timeout=30000
 [I 2025-12-27 21:40:24.289 ServerApp] Connecting to kernel f0da1e4d-d85e-4f43-b6d0-19bab927e4cf.
 [I 2025-12-27 21:40:24.302 ServerApp] Connecting to kernel f0da1e4d-d85e-4f43-b6d0-19bab927e4cf.
+[I 2025-12-27 21:42:02.008 ServerApp] Saving file at /practicals/month1/notebooks/pythonbasics.ipynb
+[I 2025-12-27 21:42:02.009 ServerApp] Saving pythonbasics.ipynb
+[I 2025-12-27 21:43:07.628 ServerApp] Saving file at /practicals/month1/notebooks/pythonbasics.ipynb
+[I 2025-12-27 21:43:07.630 ServerApp] Saving pythonbasics.ipynb
+[I 2025-12-27 21:44:08.463 ServerApp] Saving file at /practicals/month1/notebooks/pythonbasics.ipynb
+[I 2025-12-27 21:44:08.464 ServerApp] Saving pythonbasics.ipynb
+[I 2025-12-27 21:44:10.417 ServerApp] Saving file at /practicals/month1/notebooks/pythonbasics.ipynb
+[I 2025-12-27 21:44:10.418 ServerApp] Saving pythonbasics.ipynb
+[I 2025-12-27 21:44:10.599 ServerApp] Saving file at /practicals/month1/notebooks/pythonbasics.ipynb
+[I 2025-12-27 21:44:10.601 ServerApp] Saving pythonbasics.ipynb
